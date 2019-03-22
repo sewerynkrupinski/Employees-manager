@@ -33,7 +33,6 @@ public class PracownikController {
                 listaPracownik.remove(tmp);
                 break;
             }
-
         }
     }
 
@@ -43,8 +42,6 @@ public class PracownikController {
                 tmp.setKontrakt("etat");
                 tmp.setPensja(pensja);
             }
-
         }
     }
-
 }
